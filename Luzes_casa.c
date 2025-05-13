@@ -24,8 +24,8 @@
 
 // ==================== DEFINIÇÕES ====================
 // Credenciais da rede Wi-Fi
-#define WIFI_SSID "DESKTOP-0G1AS8V 7081"    // Nome da rede Wi-Fi
-#define WIFI_PASSWORD "12345678"             // Senha da rede
+#define WIFI_SSID "SEU SSID"    // Nome da rede Wi-Fi
+#define WIFI_PASSWORD "SENHA"             // Senha da rede
 
 // Definição dos pinos dos LEDs
 #define LED_PIN CYW43_WL_GPIO_LED_PIN // LED interno da Pico W (GPIO do CYW43)
